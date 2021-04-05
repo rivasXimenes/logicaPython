@@ -9,7 +9,7 @@ b = 10
 c = -8 
 d = 1.5
 
-# pot (-c,2) + (d * 10)/a
+# pot (-c, 2) + (d * 10) / a 
 
 resultado = pow(-c, 2) + (d*10) / a
 print(resultado)

@@ -14,4 +14,4 @@ d = 1.5
 # rad(pot(a,b / a)) + c * d
 
 resultado = math.sqrt(pow(a, b/a)) + c * d
-print(resultado)
+print(resultado) 

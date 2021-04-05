@@ -9,7 +9,6 @@ b = 10
 c = -8 
 d = 1.5
 
-# 2 * a mod 3 - c
-
+# 2 * a % 3 - c
 resultado = 2 * a % 3 - c
 print(resultado)
